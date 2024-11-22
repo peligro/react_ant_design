@@ -13,7 +13,7 @@ const Home = () => {
       },
     ]}
   />
-  <h1>And Design</h1>
+  <h1>Ant Design</h1>
     </>
   )
 }
